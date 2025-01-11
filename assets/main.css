@@ -123,7 +123,7 @@ My hacky way of making the site mobile-friendly
     h2{font-size:2.00em;}
     h3{font-size:1.67em;}
     h4{font-size:1.33em;}
-    p,{font-size:1em; line-height:1.5em;}
+    p{font-size:1em; line-height:1.5em;}
     th,td,tr{font-size:1.5em; line-height:1.5em;}
     td.date{font-size:1em; padding-top:0.5em;}
     td.navigation{font-size:1.5em; padding:0px 20px 0px 20px;}
