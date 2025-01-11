@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <!-- replace WEBSITE with the address where this site is being hosted -->
    <url>
-       <loc>WEBSITE</loc>
+       <loc>iwlpa.github.io/iwlpa2025</loc>
    </url>
    <url>
-       <loc>WEBSITE/registration</loc>
+       <loc>iwlpa.github.io/iwlpa2025/registration</loc>
    </url>
    <url>
-       <loc>WEBSITE/program</loc>
+       <loc>iwlpa.github.io/iwlpa2025/speakers</loc>
+   </url>
+    <url>
+       <loc>iwlpa.github.io/iwlpa2025/program</loc>
    </url>
    <url>
-       <loc>WEBSITE/directions</loc>
+       <loc>iwlpa.github.io/iwlpa2025/participants</loc>
    </url>
 </urlset> 
 
