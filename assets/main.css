@@ -129,11 +129,11 @@
         margin: 0.5rem 0;
     }
     h3 {
-        font-size: 1.75rem;
+        font-size: 1rem;
         margin: 0.5rem 0;
     }
     h4 {
-        font-size: 1.5rem;
+        font-size: 1rem;
         margin: 0.5rem 0;
     }
     p {
@@ -160,7 +160,7 @@
         padding-top: 0.5rem;
     }
     td.navigation {
-        font-size: 1rem;
+        font-size: 1.5rem;
         padding: 0.5rem 1rem;
     }
     table.footer {
